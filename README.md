@@ -1,24 +1,64 @@
-# 💫 About Me:
-Meu nome é Ewerton Leal, tenho 18 anos e sou estudante no<br>ensino superior com o curso de Analise e Desenvolvimento de Sistemas. <br>Tenho um forte interesse no desenvolvimento de software, com foco em Java. Estou<br>empenhado em aprimorar constantemente minhas habilidades<br>por meio da prática e exploração de projetos pessoais na área.<br>Apesar de estar no início da minha trajetória profissional, minha<br>paixão pela programação me motiva a buscar conhecimento e<br>aplicação prática. Tenho trabalhado com dedicação para dominar<br>conceitos e técnicas, e estou confiante na minha capacidade de<br>enfrentar desafios técnicos.<br>Estou animado para ingressar no cenário profissional e contribuir<br>com minhas habilidades em um ambiente desafiador. Valorizo a<br>oportunidade de aprender com profissionais experientes e estou<br>aberto a mentorias que possam aprimorar minha carreira na área<br>de desenvolvimento de software
+# Ewerton Leal
 
+Estudante de Análise e Desenvolvimento de Sistemas
 
-## 🌐 Socials:
+---
+
+## 💫 Sobre Mim
+
+Sou Ewerton Leal, estudante de **Análise e Desenvolvimento de Sistemas** na Uninter. Tenho 18 anos e um forte interesse no desenvolvimento de software, com foco principal em **Java** e tecnologias relacionadas.
+
+Estou me dedicando ao aprendizado contínuo, praticando habilidades no desenvolvimento **back-end** e explorando projetos pessoais. Minha paixão por programação me motiva a buscar soluções criativas para problemas, trabalhar em equipe e colaborar com outros desenvolvedores.
+
+Atualmente, procuro oportunidades de estágio ou posições juniores onde eu possa aplicar meu conhecimento técnico e continuar crescendo profissionalmente.
+
+---
+
+## 🌐 Redes Sociais
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ewerton-lealsb/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/EwertonLealSB)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white&color=%23231F20)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EwertonLealSB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EwertonLealSB&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonLealSB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 💻 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📚 Cursos e Treinamentos
+
+- **Curso de Desenvolvimento Java e Programação Orientada a Objetos (Udemy)**:
+  - Pilares da programação orientada a objetos: **Herança**, **Encapsulamento**, **Polimorfismo**
+  - Estruturas de dados e arrays
+  - Tecnologias avançadas como **Spring Boot**, **JPA** e **JDBC**
+
+---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=EwertonLealSB&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+---
+
+## 📊 Estatísticas do GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=EwertonLealSB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EwertonLealSB&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonLealSB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=EwertonLealSB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EwertonLealSB&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
